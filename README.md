@@ -1,2 +1,2 @@
 # Formacao-Dev
-Repositório do projeto realizado para Formação Dev E-commerce.
+Repositório do projeto realizado no curso Formação Dev E-commerce.
